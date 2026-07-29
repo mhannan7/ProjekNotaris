@@ -59,7 +59,7 @@ export default function UserRegister() {
         <div style={{ width: 64, height: 64, borderRadius: 18, background: 'var(--success-l)', border: '1px solid rgba(34,197,94,.25)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 20px' }}>
           <CheckIcon />
         </div>
-        <h2 style={{ fontFamily: "'Plus Jakarta Sans',sans-serif", fontSize: 22, fontWeight: 800, color: 'var(--text)', marginBottom: 10 }}>Akun Berhasil Dibuat</h2>
+        <h2 style={{ fontFagitmily: "'Plus Jakarta Sans',sans-serif", fontSize: 22, fontWeight: 800, color: 'var(--text)', marginBottom: 10 }}>Akun Berhasil Dibuat</h2>
         <p style={{ fontSize: 13, color: 'var(--text-xs)', lineHeight: 1.7, marginBottom: 28 }}>
           Kami mengirimkan email verifikasi ke <strong style={{ color: 'var(--text-sm)' }}>{form.email}</strong>.<br />
           Buka email dan klik tautan verifikasi untuk mengaktifkan akun Anda.
